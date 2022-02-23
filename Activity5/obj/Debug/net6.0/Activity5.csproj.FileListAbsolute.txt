@@ -1,0 +1,17 @@
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.csproj.AssemblyReference.cache
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.AssemblyInfoInputs.cache
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.AssemblyInfo.cs
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.csproj.CoreCompileInputs.cache
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/Activity5
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/Activity5.deps.json
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/Activity5.runtimeconfig.json
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/Activity5.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/ref/Activity5.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/Activity5.pdb
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.csproj.CopyComplete
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/ref/Activity5.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.pdb
+/Users/stephanieyung/Desktop/Intro to APIs/Activity5/obj/Debug/net6.0/Activity5.genruntimeconfig.cache
